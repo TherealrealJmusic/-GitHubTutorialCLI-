@@ -11,7 +11,7 @@ permissions:
  id-token: write 
 
 jobs: 
- projectdeploy: 
+ projectdeploy:  
   runs-on: ubuntu-latest 
 
 
